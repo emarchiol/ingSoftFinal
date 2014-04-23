@@ -1,0 +1,7 @@
+Modelo general
+casos de uso
+requisitos no funcionales
+
+
+chelo
+https://bitbucket.org/mromagnoli/umbook-theory/src/210b762ffa3542f84c2963961d6c0ddfd9b06376/1_Requerimientos/?at=master
