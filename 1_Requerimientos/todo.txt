@@ -1,5 +1,3 @@
-Modelo general
-casos de uso
 requisitos no funcionales
 
 
